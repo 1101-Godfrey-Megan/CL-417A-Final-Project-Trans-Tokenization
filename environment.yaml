@@ -1,0 +1,21 @@
+name: project
+
+dependencies:
+  - libgoogle-perftools-dev
+  - libsparsehash-dev
+  - cmake
+  - make
+  - git
+  - protobuf
+  - pip:
+    - torch
+    - pandas
+    - tqdm
+    - evaluate
+    - sacrebleu
+    - datasets
+    - transformers
+    - sentencepiece
+    - accelerate >= 0.26.0
+    - numpy
+    - matplotlib.pyplot
