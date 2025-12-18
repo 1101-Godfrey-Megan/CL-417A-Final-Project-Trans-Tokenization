@@ -11,7 +11,8 @@
   
 
 ### References:
-   
+  Dyer, C., Chahuneau, V., & Smith, N. (2013). A Simple, Fast, and Effective Reparameterization of IBM Model 2. In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, (pp. 644–648), Atlanta, Georgia. Association for Computational Linguistics. https://aclanthology.org/N13-1073/
+  
   Remy, F., Delobelle, P., Avetisyan, H., Khabibullina, A., de Lhoneux, M., & Demeester, T. (2024). Trans-tokenization and cross-lingual vocabulary transfers: Language adaptation of LLMs for low-resource NLP. In Proceedings of the 1st Conference on Language Modeling (COLM 2024), (pp. 1-28). arXiv:2408.04303. https://arxiv.org/abs/2408.04303      
   
   Tang, Y., Tran, C., Li, X., Chen, P.-J., Goyal, N., Chaudhary, V., Gu, J., & Gan, A. (2020). Multilingual translation with extensible multilingual pretraining and finetuning. arXiv preprint arXiv:2008.00401. https://doi.org/10.48550/arXiv.2008.00401
